@@ -104,12 +104,11 @@ blacklist_from *@builderwide.com.br
 blacklist_from *@registercheck.com.br
 blacklist_from *@responsewide.com.br
 blacklist_from *@monitorasmtp.com.br
-blacklist_from *@host1.consultoriaetreinamentos.com.br
+blacklist_from *consultoriaetreinamentos.com.br
 blacklist_from *@agencia5010.com.br
 blacklist_from *@olimpiadasx.com.br
-blacklist_from *@t.venus1.net.br
-blacklist_from *@tgrowplayer.com.br
 blacklist_from *venus1.net.br
+blacklist_from *@tgrowplayer.com.br
 blacklist_from *@lincsmarker.com.br
 blacklist_from *@guiamaispinhal.com.br
-blacklist_from clique1.com.br
+blacklist_from *clique1.com.br
