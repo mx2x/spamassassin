@@ -83,4 +83,33 @@ ifplugin Mail::SpamAssassin::Plugin::Shortcircuit
 
 endif # Mail::SpamAssassin::Plugin::Shortcircuit
 required_score 1
-score T_DKIM_INVALID 0.5
+score T_DKIM_INVALID 0.9
+blacklist_from noreply-dmarc-support@google.com
+blacklist_from *@plcjun.com.br
+blacklist_from *@viavalor.com.br
+blacklist_from *@contfy.com.br
+blacklist_from *@e-guiathree.net.br
+blacklist_from *@shopplanosp.com.br
+blacklist_from *@bitplanosp.com.br
+blacklist_from *@heay.com.br
+blacklist_from *@ibounces.com.br
+blacklist_from *@cursosbgt.com.br
+blacklist_from *@consorciosbrasilw.com.br
+blacklist_from *@classicheck.com.br
+blacklist_from *@hotcursoweb.com.br
+blacklist_from *@paineldelinks.com.br
+blacklist_from *@tokenwide.com.br
+blacklist_from *@responseviwer.com.br
+blacklist_from *@builderwide.com.br
+blacklist_from *@registercheck.com.br
+blacklist_from *@responsewide.com.br
+blacklist_from *@monitorasmtp.com.br
+blacklist_from *@host1.consultoriaetreinamentos.com.br
+blacklist_from *@agencia5010.com.br
+blacklist_from *@olimpiadasx.com.br
+blacklist_from *@t.venus1.net.br
+blacklist_from *@tgrowplayer.com.br
+blacklist_from *venus1.net.br
+blacklist_from *@lincsmarker.com.br
+blacklist_from *@guiamaispinhal.com.br
+blacklist_from clique1.com.br
