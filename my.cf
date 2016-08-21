@@ -1,0 +1,12 @@
+header   DOC_100002993002-1          Subject =~ /100002993002-1/
+describe DOC_100002993002-1          Documento: 100002993002-1 no subject 
+score 1.0
+
+header   SERASA         Subject =~ /serasa/
+describe SERASA          serasa  
+score 1.0
+
+header SEGMENTADOS         Subject =~ /segmentados/
+describe SEGMENTADOS          segmentados  
+score 1.0
+
